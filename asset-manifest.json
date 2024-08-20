@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AppStore-ReactJS/static/css/main.80fd18cb.chunk.css",
+    "main.js": "/AppStore-ReactJS/static/js/main.08940c5e.chunk.js",
+    "main.js.map": "/AppStore-ReactJS/static/js/main.08940c5e.chunk.js.map",
+    "runtime-main.js": "/AppStore-ReactJS/static/js/runtime-main.f040b252.js",
+    "runtime-main.js.map": "/AppStore-ReactJS/static/js/runtime-main.f040b252.js.map",
+    "static/js/2.aebd15cd.chunk.js": "/AppStore-ReactJS/static/js/2.aebd15cd.chunk.js",
+    "static/js/2.aebd15cd.chunk.js.map": "/AppStore-ReactJS/static/js/2.aebd15cd.chunk.js.map",
+    "index.html": "/AppStore-ReactJS/index.html",
+    "static/css/main.80fd18cb.chunk.css.map": "/AppStore-ReactJS/static/css/main.80fd18cb.chunk.css.map",
+    "static/js/2.aebd15cd.chunk.js.LICENSE.txt": "/AppStore-ReactJS/static/js/2.aebd15cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f040b252.js",
+    "static/js/2.aebd15cd.chunk.js",
+    "static/css/main.80fd18cb.chunk.css",
+    "static/js/main.08940c5e.chunk.js"
+  ]
+}
