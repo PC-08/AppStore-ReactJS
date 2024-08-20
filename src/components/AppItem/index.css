@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app-list-name {
+  color: #1e293b;
+  font-size: 18px;
+}
+
+.app-list-img {
+  width: 100px;
+}
+
+.app-list-container {
+  padding: 15px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 10px;
+  width: 150px;
+}

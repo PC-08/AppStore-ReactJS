@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.tab-list-btn {
+  background: transparent;
+  border: 0;
+  font-size: 18px;
+  color: #7b8794;
+  padding: 25px;
+  font-weight: bold;
+}
+
+.activeTab {
+  color: #2563eb;
+  font-size: 20px;
+  padding-bottom: 8px;
+  border-bottom: 4px solid #2563eb;
+}
+
+@media (max-width: 576px) {
+  .tab-list-btn {
+    font-size: 16px;
+    padding: 15px;
+  }
+
+  .activeTab {
+    font-size: 18px;
+  }
+}
